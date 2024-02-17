@@ -18,4 +18,4 @@ export const API_OPTION = {
     {identifier: "french", name: "French"},
   ];
 
-  export const OPENAI_KEY = " Your API Key goes here" ;
+  export const OPENAI_KEY = "Your Key Goes Here";
